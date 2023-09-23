@@ -10,6 +10,7 @@ library(scalreg)
 library(hdi)
 
 
+
 ######### READ DATA
 data(riboflavin)
 data <- na.omit(riboflavin);
